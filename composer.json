@@ -1,5 +1,5 @@
 {
-    "name": "dd01/pay",
+    "name": "dd01/dd01-php-shared-lib/src/pay",
     "description": "专注 Alipay 和 WeChat 的支付扩展包",
     "keywords": ["alipay", "wechat", "pay"],
     "type": "library",
