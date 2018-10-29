@@ -1,5 +1,5 @@
 <?php
-//111111111111111111111111111111
+//dd01 
 namespace Yansongda\Pay;
 
 use Yansongda\Pay\Contracts\GatewayApplicationInterface;
@@ -119,5 +119,9 @@ class Pay
         );
 
         Log::setLogger($logger);
+    }
+    
+    public function test(){
+    
     }
 }
